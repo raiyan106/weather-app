@@ -1,0 +1,27 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A simple weather determining app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raiyan106/weather-app.git"
+  },
+  "keywords": [
+    "weather",
+    "app"
+  ],
+  "author": "Raiyan Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raiyan106/weather-app/issues"
+  },
+  "homepage": "https://github.com/raiyan106/weather-app#readme",
+  "dependencies": {
+    "request": "^2.85.0",
+    "yargs": "^11.0.0"
+  }
+}
